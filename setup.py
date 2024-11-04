@@ -27,7 +27,7 @@ from setuptools import setup, find_packages
 setup(name='pex',
       version='1.0.0',
       description='Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language.',
-      url='https://github.com/EntySec/Pex',
+      url='https://github.com/Mangotimmy/test2',
       author='EntySec',
       author_email='entysec@gmail.com',
       license='MIT',
@@ -41,7 +41,7 @@ setup(name='pex',
           'pychromecast', 'pyasyncore',
           'pyOpenSSL', 'pefile',
 
-          'hatasm @ git+https://github.com/EntySec/HatAsm'
+          'hatasm @ git+https://github.com/Mangotimmy/asm'
       ],
       zip_safe=False
       )
